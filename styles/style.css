@@ -79,7 +79,10 @@ hr {
 .blog-author a {
     color: #562eff;
     text-decoration: none;
-}
+} 
+/* ---------------
+ Top courses styles
+ ------------------- */
 .course-thumbnail img {
     width: 224px;
     height: 104px;
@@ -141,6 +144,7 @@ hr {
         height: 86px;
     }
 }
+/* Table Devices */
 @media only screen and (min-width: 689px) and (max-width: 992px) {
     .container {
         width: 100%;
